@@ -13,7 +13,7 @@ Many people are unaware of the actual air quality in their immediate environment
 ### [Arduino Integration](https://github.com/HowsAir/arduino)
 This repository contains the software for our Arduino sensors, responsible for gathering critical information and transmitting it to our mobile application.
 
-### [Android App](https://github.com/HowsAir/android-app)
+### [Android App](https://github.com/HowsAir/android)
 This repository hosts the development of our Android application, designed to provide innovative solutions related to data collection and transmission for our platform.
 
 ### [Backend Services](https://github.com/HowsAir/server)
