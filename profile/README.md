@@ -1,4 +1,4 @@
-# Help us ALL Breathe Better with HowsAir
+# Let's know what we breath with HowsAir
 Welcome to HowsAir GitHub organization! We're glad you're here. Below is an outline of our ongoing projects and repositories:
 
 ## Description
